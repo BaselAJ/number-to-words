@@ -103,6 +103,7 @@ class ArabicDictionary implements Dictionary
         'SEK' => [['Swedish krona'], ['oere']],
         'SIT' => [['Tolar'], ['stotinia']],
         'SKK' => [['Slovak koruna'], []],
+        'SP' => [['ليرة سورية'], ['قرش']],
         'TMT' => [['manat'], ['tenge']],
         'TND' => [['دينار'], ['ملم']],
         'TRL' => [['lira'], ['kuruş']],
