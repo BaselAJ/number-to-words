@@ -83,7 +83,7 @@ class EnglishDictionary implements Dictionary
         'SEK' => [['Swedish krona'], ['oere']],
         'SIT' => [['Tolar'], ['stotinia']],
         'SKK' => [['Slovak koruna'], []],
-        'SP'  => [['syrian pound'], ['kursh']],
+        'SYP'  => [['syrian pound'], ['kursh']],
         'TMT' => [['manat'], ['tenge']],
         'TND' => [['dinar'], ['millime']],
         'TRL' => [['lira'], ['kuruş']],
